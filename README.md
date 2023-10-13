@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**AthiraSreenath/AthiraSreenath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Scientist who
+- loves to solve complex problems in diverse domains
+- plays with all kinds of data - structured and unstructured
+- at the end of the day, a student who's taking small steps each day in the huge exciting world of AI
 
-Here are some ideas to get you started:
+**Reach me at**: 
+[athira.srivani@gmail.com](mailto:athira.srivani@gmail.com) or [LinkedIn](https://www.linkedin.com/in/athira-srivani/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Toolkit**:
+
+Python, SQL, Deep Learning, Generative AI, LLMs, GIT, Data Visualization, Tableau
+
