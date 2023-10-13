@@ -3,7 +3,7 @@
 I am a Data Scientist who
 - loves to solve complex problems in diverse domains
 - plays with all kinds of data - structured and unstructured
-- at the end of the day, a student who's taking small steps each day in the huge exciting world of AI
+- is a student who's taking small steps each day in the huge exciting world of AI
 
 **Toolkit**:
 
