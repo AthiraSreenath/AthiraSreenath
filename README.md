@@ -7,7 +7,7 @@ I am a Data Scientist who
 
 **Toolkit**:
 
-Python, SQL, Deep Learning, Generative AI, LLMs, GIT, Data Visualization, Tableau
+Python, SQL, Deep Learning, Generative AI, LLMs, Data Visualization, Tableau
 
 **Reach me at**: 
 
