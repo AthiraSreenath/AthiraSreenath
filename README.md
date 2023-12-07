@@ -3,11 +3,13 @@
 I am a Data Scientist who
 - loves to solve real world problems in diverse domains
 - plays with all kinds of data - structured and unstructured
-- is a student who's taking small steps each day in the huge exciting world of AI
-
+  
 **Toolkit**:
-
-Python, SQL, Deep Learning, Generative AI, LLMs, Data Visualization, Tableau
+Machine Learning, Generative AI, LLMs
+Python, SQL
+Data Analysis, Data Wrangling
+Data Visualization, Tableau
+Github, Docker
 
 **Reach me at**: 
 
