@@ -6,15 +6,15 @@ I am a Data Scientist who
   
 **Toolkit**:
 
--Machine Learning, Generative AI, LLMs
+- Machine Learning, Generative AI, LLMs
 
--Python, SQL
+- Python, SQL
 
--Data Analysis, Data Wrangling
+- Data Analysis, Data Wrangling
 
--Data Visualization, Tableau
+- Data Visualization, Tableau
 
--Github, Docker
+- Github, Docker
 
 **Reach me at**: 
 
