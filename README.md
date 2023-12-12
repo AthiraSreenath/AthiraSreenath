@@ -14,7 +14,7 @@ I am a Data Scientist who
 
 - Data Visualization, Tableau
 
-- Github, Docker
+- Github
 
 **Reach me at**: 
 
