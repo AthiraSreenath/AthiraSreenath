@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I develop intelligent systems with a strong emphasis on practical impact and scalability. With experience spanning high-growth startups and multinational corporations, I have delivered AI solutions across NLP, Computer Vision, and Voice AI. I build efficient, domain-specific models tailored to business needs - using both Gen AI and traditional ML algorithms.
+I develop intelligent systems with a strong emphasis on practical impact and scalability. With experience spanning high-growth startups and multinational corporations, I have delivered AI solutions across NLP, Computer Vision, and Voice AI. I build efficient, domain-specific models tailored to business needs - using both Gen AI and traditional ML algorithms.
 
 #### Model Building
 Built and fine-tuned domain specific models for various domain-specific tasks
