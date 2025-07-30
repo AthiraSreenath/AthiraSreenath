@@ -2,41 +2,35 @@
 
 I develop intelligent systems with a strong emphasis on practical impact and scalability. With experience spanning high-growth startups and multinational corporations, I have delivered AI solutions across NLP, Computer Vision, and Voice AI. I build efficient, domain-specific models tailored to business needs - using both Gen AI and traditional ML algorithms.
 
-#### Model Building
-Built and fine-tuned domain specific models for various domain-specific tasks
+#### Model Building: Built and fine-tuned models for various domain-specific tasks
  - Full finetuning, LoRA, QLoRA
  - Text classification: ModernBert, Bert, DistilBert
  - Image classification: YOLO, ViT
  - Custom NER modeling
  - Full document classification
 
-#### Multi-modal RAG systems
-For virtual assistant, document QA
+#### Multi-modal RAG systems: For virtual assistant, document QA
  - Document parsing, chunking 
  - Semantic search, keyword search, FAISS+HNSW, vector DBs
  - Re-ranker, LLMs
 
-#### Voice AI systems:
-For virtual assistants
+#### Voice AI systems: For virtual assistants
  - Automatic Speech Recognition (ASR)
  - Speaker diarization using agglomerative clustering
  - Voice cloning (Coqui TTS, Tortoise TTS, and ElevenLabs)
 
-#### Document understanding
-For downstream tasks like RAG, classification etc
+#### Document understanding: For downstream tasks like RAG, classification etc
  - Text parsing
  - Image and diagram extraction
  - Text extraction from images ( OCR)
 
-#### Curating High Quality Dataset: 
-For training, evaluation and benchmarking models
+#### Curating High Quality Dataset: For training, evaluation and benchmarking models
  - Curation of high quality custom real-world data
  - High quality synthetic data generation using LLMs
  - Data labelling, augmentation using LLMs
  - Data wrangling, visualization and analysis
 
-#### Responsible AI: 
-For responsible and safe AI usage
+#### Responsible AI: For responsible and safe AI usage
  - Red teaming LLMs: Created frameworks and then built datasets to evaluate LLMs for bias (against protected classes)
  - AI Audit: Creating SOPs for clients to ensure their AI development meets legal, ethical, and regulatory compliance.
  - Working on PII detection and custom NER modeling
